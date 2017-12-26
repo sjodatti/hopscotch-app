@@ -1,0 +1,17 @@
+.product-tile-container {
+    position: relative;
+}
+
+.product-tile-container .sold-out{
+    font-weight: bold;
+    color: red;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+
+.sold-out-tile{
+    opacity: 0.2;
+}

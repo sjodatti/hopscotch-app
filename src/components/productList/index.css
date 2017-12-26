@@ -1,0 +1,23 @@
+.product-list-container {
+    padding: 50px;
+    
+}
+.data-info {
+    flex: 1 1 200px;
+    height: 200px;
+    border-radius: 2px;
+    border: 1px solid #777777;
+    margin: 5px 10px 5px 10px;
+    background-color: #eeeeee;
+    padding: 5px 10px 5px 10px;
+    color: #222222;
+  }
+  
+  .data-loading {
+    display: block;
+    background: url(../../../src/loading-icon.gif) no-repeat;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    margin: 0 auto;
+  }
